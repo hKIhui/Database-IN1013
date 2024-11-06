@@ -1,4 +1,4 @@
--- 3
+-- 1
 SELECT bill_date, bill_total FROM  restBill WHERE cust_name='Bob Crow';
 
 -- 2
